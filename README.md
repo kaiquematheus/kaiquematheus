@@ -7,7 +7,7 @@
 
 ### Formação 🎓
 - ✨  Técnico Informática 💻
--  ✨ Bacharelado em Sistemas da Informação 📚
+-  ✨ Bacharelado em Sistemas de Informação 📚
 
 
 
